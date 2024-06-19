@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.kviat","c":"TaskManager","l":"addTask(SimpleTask)","u":"addTask(org.kviat.SimpleTask)"},{"p":"org.kviat","c":"TaskManager","l":"getTasks()"},{"p":"org.kviat","c":"TaskManager","l":"removeTask(SimpleTask)","u":"removeTask(org.kviat.SimpleTask)"},{"p":"org.kviat","c":"TaskManager","l":"TaskManager()","u":"%3Cinit%3E()"}];updateSearchResults();

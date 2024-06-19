@@ -1,0 +1,7 @@
+-classpath 'C:\\Idea\\Projects\\Automation_Lab3\\data\\build\\classes\\java\\main;C:\\Idea\\Projects\\Automation_Lab3\\data\\build\\resources\\main'
+-d 'C:\\Idea\\Projects\\Automation_Lab3\\data\\build\\docs\\javadoc'
+-doctitle 'data 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'data 1.0-SNAPSHOT API'
+'C:\\Idea\\Projects\\Automation_Lab3\\data\\src\\main\\java\\org\\kviat\\SimpleTask.java'

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.kviat","c":"TaskManagerApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"org.kviat","c":"TaskManagerApp","l":"TaskManagerApp()","u":"%3Cinit%3E()"}];updateSearchResults();

@@ -1,0 +1,2 @@
+Error: Could not find or load main class org.kviat.TaskManagerApp
+Caused by: java.lang.ClassNotFoundException: org.kviat.TaskManagerApp
